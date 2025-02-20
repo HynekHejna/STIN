@@ -1,10 +1,10 @@
-package cz.tul.mti.stin.cv01;
+package cz.tul.stin._5.cv;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Cv01ApplicationTests {
+class CvApplicationTests {
 
 	@Test
 	void contextLoads() {

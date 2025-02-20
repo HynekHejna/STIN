@@ -1,13 +1,13 @@
-package cz.tul.mti.stin.cv01;
+package cz.tul.stin._5.cv;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Cv01Application {
+public class CvApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Cv01Application.class, args);
+		SpringApplication.run(CvApplication.class, args);
 	}
 
 }
